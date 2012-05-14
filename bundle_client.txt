@@ -1,0 +1,7 @@
+ /*
+  * bundle_client
+  * Contao Community Alliance
+  * http://www.contao-bundles.org/
+  *
+  * bae6d0d7c7052c38b5c9a22c887c82f0
+  */

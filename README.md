@@ -1,2 +1,2 @@
-ck2012-boilerplate
-==================
+Contao Conference 2012 Boilerplate
+==================================
