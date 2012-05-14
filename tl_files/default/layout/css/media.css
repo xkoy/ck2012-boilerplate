@@ -1,0 +1,29 @@
+ /**
+  *
+  * Media Queries
+  *
+  * @copyright		Copyright 2012 | CK2012
+  * @link 		    https://github.com/menatwork/ck2012-boilerplate/
+  */
+
+@media screen and (max-width: 1100px) { }
+
+@media screen and (max-width: 985px) { }
+
+/* iPad */ 
+@media only screen and (max-device-width: 768px) and (orientation:portrait), only screen and (max-device-width: 1024px) and (orientation:landscape) { }
+
+/* iPad portrait */ 
+@media only screen and (max-device-width: 768px) and (orientation:portrait) { }
+
+/* iPad landscape */ 
+@media only screen and (max-device-width: 1024px) and (orientation:landscape) { }
+
+/* iPhone/iPod */ 
+@media only screen and (max-device-width: 480px) and (orientation:landscape), only screen and (max-device-width: 320px) and (orientation:portrait) { }
+
+/* iPhone portrait */ 
+@media only screen and (max-device-width: 320px) and (orientation:portrait) { }
+
+/* iPhone landscape */ 
+@media only screen and (max-device-width: 480px) and (orientation:landscape) { }

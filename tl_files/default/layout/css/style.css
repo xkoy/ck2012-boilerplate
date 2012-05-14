@@ -2,8 +2,8 @@
   *
   * Screenlayout
   *
-  * @copyright		Copyright 2012 | MEN AT WORK
-  * @link 		http://www.men-at-work.de
+  * @copyright		Copyright 2012 | CK2012
+  * @link 		    https://github.com/menatwork/ck2012-boilerplate/
   */
 
 @media screen, projection
@@ -28,42 +28,9 @@
   a:hover { 
 	text-decoration:none; 
   }
-
-  h2, h3, h4, h5, h6 { 
-	color:#000;
-  }
   
   input, textarea, select {
 	font:normal 12px/1.5em Arial, Helvetica, sans-serif;
-  }
-  
-  .data ul, .list ul { 
-	margin:2px 0; 
-	list-style:none;
-	padding:0;
-  }
-  
-  .data ul li, .list ul li { 
-	padding:0; 
-  }
-	
-  .data ul span { 
-	float:left; 
-	width:60px;  
-  }
-
-  .list ul { 
-	list-style:disc; 
-	padding:0 0 0 20px; 
-	margin-right:10px; 
-  }
-  
-  .list ul li { 
-	padding:1px 0; 
-  }
-
-  .main p { 
-	padding:8px 0; 
   }
   
  /*------------------------------------------------------------------------*/
@@ -74,15 +41,7 @@
   
  /*------------------------------------------------------------------------*/
 
-  #header .inside {
-
-  }
-  
-  #header h1 {
-
-  }
-
-  #header h1 a {
+  #header  {
 
   }
   
