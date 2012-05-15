@@ -30,7 +30,22 @@ http://www.contao.org/de/extension-list/view/improvements.html
 
 ### templateSelection
 http://www.contao.org/de/extension-list/view/templateSelection.html
-  
+
+
+### bundle_client
+http://www.contao.org/de/extension-list/view/bundle_client.html
+
 
 ### tinymce_cleaner
 https://github.com/LeoUnglaub/contao_tinymce_cleaner
+
+
+External tools
+--------------
+
+### Contao bundles
+http://www.contao-bundles.org/
+
+### Ceris
+http://www.contao-pool.de/ceris.html
+
