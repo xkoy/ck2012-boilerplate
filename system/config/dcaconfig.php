@@ -44,7 +44,14 @@ $this->import('BackendUser', 'User');
 // Nur wenn es sich NICHT um einen Admin handelt
 if (!$this->User->isAdmin)
 {
+  // Inhaltselemente
   $GLOBALS['TL_DCA']['tl_content']['fields']['text']['eval']['rte'] = 'tinyMCE_ck2012';
+  
+  // Events
+  $GLOBALS['TL_DCA']['tl_calendar_events']['fields']['details']['eval']['rte'] = 'tinyMCE_ck2012';
+  
+  // Nachrichten
+  $GLOBALS['TL_DCA']['tl_news']['fields']['text']['eval']['rte'] = 'tinyMCE_ck2012';
 }
 
 ?>
