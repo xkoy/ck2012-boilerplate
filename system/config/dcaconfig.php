@@ -39,4 +39,12 @@ $GLOBALS['TL_DCA']['tl_article']['list']['label']['format'] = '%s <span style="c
 // Überschriften eingrenzen
 $GLOBALS['TL_DCA']['tl_content']['fields']['headline']['options'] = array('h2','h3','h4','h5','h6');
 
+// Importiere Backend-User
+$this->import('BackendUser', 'User');
+// Nur wenn es sich NICHT um einen Admin handelt
+if (!$this->User->isAdmin)
+{
+  $GLOBALS['TL_DCA']['tl_content']['fields']['text']['eval']['rte'] = 'tinyMCE_ck2012';
+}
+
 ?>
