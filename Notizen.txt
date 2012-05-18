@@ -1,12 +1,8 @@
 Ordner:
 	- Beispieldaten
-	- Import
-	- Daten-Ordner (Alles auﬂer Layout)
 
 css:
-	- grid.css?
-	- gridbuilder: http://www.4wardmedia.de/gridbuilder.html
-	
+	- grid.css?	
 	
 Print.css:
 	- ggf. Drucklogo
@@ -19,9 +15,4 @@ Widgets:
 	- Events
 
 Tiny:
-	- Anpasusngen? z.B. Bilderauswahl?
-	
-Extensions:
-	- 
-	
-	
+	- Anpassungen? z.B. Bilderauswahl?
