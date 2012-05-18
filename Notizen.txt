@@ -1,0 +1,27 @@
+Ordner:
+	- Beispieldaten
+	- Import
+	- Daten-Ordner (Alles auﬂer Layout)
+
+css:
+	- grid.css?
+	- gridbuilder: http://www.4wardmedia.de/gridbuilder.html
+	
+	
+Print.css:
+	- ggf. Drucklogo
+	- Druckadresse (Header)
+	
+Widgets:
+	- form_widget von Andreas Schempp (?)
+	- news
+	- Gallerie ohne Tabelle
+	- Events
+
+Tiny:
+	- Anpasusngen? z.B. Bilderauswahl?
+	
+Extensions:
+	- 
+	
+	
