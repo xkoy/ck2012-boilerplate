@@ -59,7 +59,7 @@ http://www.contao.org/de/extension-list/view/quickjump4ward.html
 http://www.contao.org/de/extension-list/view/backboneit_mod_article.html
 
 
-### layoutusage
+### backboneit_layoutusage
 http://www.contao.org/de/extension-list/view/backboneit_layoutusage.html
 
 
